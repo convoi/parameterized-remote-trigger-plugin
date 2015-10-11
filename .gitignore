@@ -17,3 +17,7 @@ release.properties
 target
 *.releaseBackup
 *.swp
+
+#Intellij-specific stuff
+.idea
+*.iml
